@@ -1,4 +1,4 @@
-# 👋 Hello World!
+# 👋 **Hello World!**
 
 I'm Tarek Noiem, a rising senior at New York University 🎓, studying Computer Science in the College of Arts and Science 🏫. Welcome to my GitHub profile!
 
@@ -10,7 +10,7 @@ I'm Tarek Noiem, a rising senior at New York University 🎓, studying Computer 
 
 <div align="right">
   <a href="https://www.linkedin.com/in/tan25">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="150" height="35" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="200" height="50" alt="LinkedIn">
   </a>
 </div>
 
