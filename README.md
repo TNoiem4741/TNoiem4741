@@ -21,6 +21,3 @@ I'm Tarek Noiem, a rising senior at New York University 🎓, studying Computer 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TNoiem4741&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
 </div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TNoiem4741&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
