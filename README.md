@@ -2,7 +2,7 @@
 
 I'm Tarek Noiem, a rising senior at New York University 🎓, studying Computer Science in the College of Arts and Science 🏫. Welcome to my GitHub profile!
 
-<img src="images/backend_text_2.jpg" width="1750" height="1000" alt="Banner">
+<img src="images/backend_text_2.jpg" width="1500" height="500" alt="Banner">
 
 
 ## 💫 About Me:
