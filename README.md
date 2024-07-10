@@ -2,7 +2,7 @@
 
 I'm Tarek Noiem, a rising senior at New York University 🎓, studying Computer Science in the College of Arts and Science 🏫. Welcome to my GitHub profile!
 
-<img src="images/backend_text_2.jpg" width="750" height="250" alt="Banner">
+<img src="images/backend_text_2.jpg" width="750" height="500" alt="Banner">
 
 
 ## 💫 About Me:
@@ -20,6 +20,7 @@ I'm Tarek Noiem, a rising senior at New York University 🎓, studying Computer 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### **Web Development:**
@@ -31,8 +32,8 @@ I'm Tarek Noiem, a rising senior at New York University 🎓, studying Computer 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### **Databases:**
-![MYSQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)]
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📊 GitHub Stats:
 <div align="center">
