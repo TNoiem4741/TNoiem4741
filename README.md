@@ -2,7 +2,7 @@
 
 I'm Tarek Noiem, a rising senior at New York University 🎓, studying Computer Science in the College of Arts and Science 🏫. Welcome to my GitHub profile!
 
-<img src="images/backend_text_2.jpg" width="1750" height="3500" alt="Banner">
+<img src="images/backend_text_2.jpg" width="1750" height="1000" alt="Banner">
 
 
 ## 💫 About Me:
@@ -12,12 +12,6 @@ I'm Tarek Noiem, a rising senior at New York University 🎓, studying Computer 
 - 🤖 **AI Explorer:** Passionate about artificial intelligence, working with TensorFlow and PyTorch.
 - 🔐 **Cybersecurity Advocate:** Growing interest in protecting data and systems.
 - 📚 **Lifelong Learner:** Eager to learn new skills and technologies.
-
-<div align="right">
-  <a href="https://www.linkedin.com/in/tan25">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="150" height="38" alt="LinkedIn">
-  </a>
-</div>
 
 ## 💻 Tech Stack:
 
