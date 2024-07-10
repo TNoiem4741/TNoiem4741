@@ -2,7 +2,9 @@
 
 I'm Tarek Noiem, a rising senior at New York University 🎓, studying Computer Science in the College of Arts and Science 🏫. Welcome to my GitHub profile!
 
-<img src="images/backend_text_2.jpg" width="500" height="300" alt="Banner">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TNoiem4741&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
+</div>
 
 
 ## 💫 About Me:
@@ -34,8 +36,3 @@ I'm Tarek Noiem, a rising senior at New York University 🎓, studying Computer 
 ### **Databases:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TNoiem4741&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
-</div>
