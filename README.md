@@ -3,7 +3,7 @@
 I'm Tarek Noiem, a rising senior at New York University 🎓, studying Computer Science in the College of Arts and Science 🏫. Welcome to my GitHub profile!
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TNoiem4741&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
+  <img src="images/wp4239471-1768942293.png" alt="Banner">
 </div>
 
 
